@@ -114,7 +114,7 @@ BSc in Computer Science & Engineering – GPA: `3.64/4.00`
 
 ### **Portfolio Highlights**
 
-Visit: [ P﻿ortfolio](https://sakibh20.netlify.app/blog/)  
+Visit: [ P﻿ortfolio](https://sakibh20.netlify.app/portfolio/)  
 
 * **AR Applications:** Furniture visualization, BMW AR, Architectural visualization
 * **VR Experiences:** Gear VR Cricket, GP Roaming Journey, Virtual Cafela, VR Penalty Kick
